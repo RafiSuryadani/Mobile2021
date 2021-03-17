@@ -1,0 +1,2 @@
+2. jika kalkuratornya tidak di masukin angka sama sekali maka akan ada peringatan (masukan angka teman),
+3. di angka1 sama angka2 tidak bisa ada yang kosong, kalo salah 1 ada kosong atau semua kosong akan terjadi peringatan (masukan angka teman)
