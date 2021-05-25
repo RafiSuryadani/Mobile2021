@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week08b_32986</string>
+    <string name="_0">0</string>
+    <string name="hitam">HITAM</string>
+    <string name="merah">MERAH</string>
+    <string name="biru">BIRU</string>
+    <string name="hijau">HIJAU</string>
+    <string name="tambah">TAMBAH</string>
+    <string name="reset">RESET</string>
+</resources>
