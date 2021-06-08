@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "574451597259",
+    "firebase_url": "https://data-karyawan-bcdcb-default-rtdb.firebaseio.com",
+    "project_id": "data-karyawan-bcdcb",
+    "storage_bucket": "data-karyawan-bcdcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574451597259:android:55a01394bdd13bf5c2004e",
+        "android_client_info": {
+          "package_name": "com.umn.ac.id.datakaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574451597259-9pbrafjjoilpfd3jkne45vf5ftg9t960.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGSY3hYyM4yd4Qx8mAaCbZH_GMBcMo_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574451597259-9pbrafjjoilpfd3jkne45vf5ftg9t960.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574451597259:android:e39a963a27c10cd2c2004e",
+        "android_client_info": {
+          "package_name": "id.ac.umn.mahasiswaque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574451597259-9pbrafjjoilpfd3jkne45vf5ftg9t960.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGSY3hYyM4yd4Qx8mAaCbZH_GMBcMo_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574451597259-9pbrafjjoilpfd3jkne45vf5ftg9t960.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574451597259:android:98e68b99f8526fd8c2004e",
+        "android_client_info": {
+          "package_name": "umn.ac.id.datakaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574451597259-ckloi8pcu8n0ncliknt83pkci1st3k87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "umn.ac.id.datakaryawan",
+            "certificate_hash": "0b5903fda7dca19ee21de3f06e4de31f9ffe7e83"
+          }
+        },
+        {
+          "client_id": "574451597259-9pbrafjjoilpfd3jkne45vf5ftg9t960.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGSY3hYyM4yd4Qx8mAaCbZH_GMBcMo_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574451597259-9pbrafjjoilpfd3jkne45vf5ftg9t960.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
